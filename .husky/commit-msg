@@ -1,0 +1,7 @@
+pnpm dlx commitlint --edit $1" > .husky/commit-msg
+echo 
+pnpm
+dlx
+commitlint
+--edit
+$1"
